@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "name": "One Half Pounder"
+    },
+    {
+      "id": "2",
+      "checked": true,
+      "name": "Two Half Pounder"
+    },
+    {
+      "id": "31",
+      "name": "coding",
+      "checked": false
+    },
+    {
+      "id": "311",
+      "name": "coding",
+      "checked": false
+    },
+    {
+      "id": "3111",
+      "name": "coding",
+      "checked": false
+    },
+    {
+      "id": "31111",
+      "name": "coding",
+      "checked": false
+    },
+    {
+      "id": 6,
+      "name": "coding",
+      "checked": false
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 const SearchItems = ({search, setSearch}) => {
   return (
    <form className="searchForm" onSubmit={(e) => e.preventDefault()}>
